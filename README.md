@@ -1,8 +1,8 @@
 # Overview
 
-This is a Hangman game written in Rust. 
+This is a Hangman game written in Rust. The program will choose a word, display how many characters long the word is, and show the user when they guess correctly and incorrectly. The user can guess one letter at a time or they can attempt to guess the whole word at once. If the user guesses the word correctly, they win. If the user guesses incorrectly 6 times they lose. 
 
-{Describe your purpose for writing this software.}
+I wrote this software to begin learning the Rust language, to practice learning and working with a variety of languages, and to practice completing a project in a short sprint.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -10,8 +10,9 @@ This is a Hangman game written in Rust.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the C++ build tools for Visual Studio, the Rust language via rustup, and Visual Studio Code.
 
+I used Rust exclusively when writing this program. I used 
 {Describe the programming language that you used and any libraries.}
 
 # Useful Websites
