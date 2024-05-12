@@ -4,7 +4,7 @@ This is a Hangman game written in Rust. The program will choose a word, display 
 
 I wrote this software to begin learning the Rust language, to practice learning languages quickly, and to practice completing a project in a short sprint.
 
-[Software Demo Video]((https://www.loom.com/share/02a20724e1d64bc7a46bcd27f52693ee?sid=6d6ccb27-c11f-49a7-8050-44b41b3b668c))
+[Software Demo Video](https://www.loom.com/share/02a20724e1d64bc7a46bcd27f52693ee?sid=6d6ccb27-c11f-49a7-8050-44b41b3b668c)
 
 # Development Environment
 
