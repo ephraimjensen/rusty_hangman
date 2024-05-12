@@ -1,6 +1,6 @@
 # Overview
 
-This is a Hangman game written in Rust. The program will choose a word, display how many characters long the word is, and show the user when they guess correctly and incorrectly. The user can guess one letter at a time or they can attempt to guess the whole word at once. If the user guesses the word correctly, they win. If the user guesses incorrectly 6 times they lose. 
+This is a Hangman game written in Rust. The program will choose a word, display how many characters long the word is, and show the user when they guess correctly and incorrectly. The user can guess one letter at a time or they can attempt to guess the whole word at once. If the user guesses the word correctly, they win. If the user guesses incorrectly 6 times they lose.
 
 I wrote this software to begin learning the Rust language, to practice learning languages quickly, and to practice completing a project in a short sprint.
 
@@ -25,7 +25,6 @@ I used Rust exclusively when writing this program. At first, I didn't like Rust 
 # Future Work
 
 - Make it look prettier
-- fix a bug with the letter 'i'
 - allow for both capital and lowercase letters
 - multiple gallows
 - play again functionality
