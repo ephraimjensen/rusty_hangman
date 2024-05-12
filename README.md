@@ -4,9 +4,7 @@ This is a Hangman game written in Rust. The program will choose a word, display 
 
 I wrote this software to begin learning the Rust language, to practice learning languages quickly, and to practice completing a project in a short sprint.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://www.loom.com/share/02a20724e1d64bc7a46bcd27f52693ee?sid=6d6ccb27-c11f-49a7-8050-44b41b3b668c))
 
 # Development Environment
 
@@ -15,8 +13,6 @@ I used the C++ build tools for Visual Studio, the Rust language via rustup, and 
 I used Rust exclusively when writing this program. At first, I didn't like Rust because the syntax seemed weird and was unfamiliar, but as I started to learn the language better I enjoyed programming in it more. I used the standard Rust library to get inputs from the user and the Rand library to choose a word at random.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Hangman Word List](https://gist.github.com/alpha-tango/c3d2645817cf4af2aa45#file-hangman_wordbank)
 - [Text to ASCII Art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
