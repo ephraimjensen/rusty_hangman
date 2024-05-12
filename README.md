@@ -27,3 +27,5 @@ I used Rust exclusively when writing this program. At first, I didn't like Rust 
 - Make it look prettier
 - fix a bug with the letter 'i'
 - allow for both capital and lowercase letters
+- multiple gallows
+- play again functionality
