@@ -26,3 +26,4 @@ I used Rust exclusively when writing this program. At first, I didn't like Rust 
 
 - Make it look prettier
 - multiple gallows
+- read art in from different files
