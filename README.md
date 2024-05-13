@@ -24,7 +24,4 @@ I used Rust exclusively when writing this program. At first, I didn't like Rust 
 
 # Future Work
 
-- Make it look prettier
-- allow for both capital and lowercase letters
-- multiple gallows
-- play again functionality
+- Make it look prettier for the user
