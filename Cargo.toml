@@ -1,5 +1,5 @@
 [package]
-name = "my_first_rust_project"
+name = "rusty_hangman"
 version = "0.1.0"
 edition = "2021"
 
